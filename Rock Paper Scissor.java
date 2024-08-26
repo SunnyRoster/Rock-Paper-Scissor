@@ -3,9 +3,6 @@ import java.util.Random;
 
 public class rockpaperscissors {
 
-  /**
-   * @param args the command line arguments
-   */
   @SuppressWarnings({ "unused", "resource" })
   public static void main(String[] args) {
 
